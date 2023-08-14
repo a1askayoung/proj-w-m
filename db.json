@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "title": "Plant",
+      "description": "This is the house plant to decorate your home",
+      "category": "plants",
+      "price": 25,
+      "picture": "https://cdn.shopify.com/s/files/1/0150/6262/products/the_sill-variant-white_gloss-money_tree.jpg?v=1680542101",
+      "id": 2
+    },
+    {
+      "title": "iPhone 14 pro",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "iphone",
+      "price": 1200,
+      "picture": "https://m.media-amazon.com/images/I/61HHS0HrjpL._AC_UF894,1000_QL80_.jpg",
+      "id": 3
+    },
+    {
+      "title": "Macbook Air M2",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "mac",
+      "price": 3400,
+      "picture": "https://m.media-amazon.com/images/I/71vFKBpKakL._AC_UF894,1000_QL80_.jpg",
+      "id": 4
+    },
+    {
+      "title": "iPad Pro",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "ipad",
+      "price": 1300,
+      "picture": "https://m.media-amazon.com/images/I/61goypdjAYL._AC_UF894,1000_QL80_.jpg",
+      "id": 5
+    },
+    {
+      "title": "Spider Plant",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "plants",
+      "price": 30,
+      "picture": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+      "id": 6
+    },
+    {
+      "title": "Spider Plant",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "plants",
+      "price": 30,
+      "picture": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+      "id": 7
+    },
+    {
+      "title": "Spider Plant",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "plants",
+      "price": 30,
+      "picture": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+      "id": 8
+    },
+    {
+      "title": "Spider Plant",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "plants",
+      "price": 30,
+      "picture": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+      "id": 9
+    },
+    {
+      "title": "Spider Plant",
+      "description": "Spider plants have long, arching leaves that can be green or striped green and white. Small flowers form at the end of the leaves of mature plants, which can then form plantlets to start new potted plants.",
+      "category": "plants",
+      "price": 30,
+      "picture": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+      "id": 10
+    }
+  ]
+}
